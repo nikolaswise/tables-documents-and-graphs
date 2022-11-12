@@ -1,0 +1,26 @@
+{
+  "name": "tables-documents-and-graphs",
+  "version": "1.0.0",
+  "description": "> Lets learn about DATABASES and what they are good at or bad at!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaswise/tables-documents-and-graphs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolaswise/tables-documents-and-graphs/issues"
+  },
+  "homepage": "https://github.com/nikolaswise/tables-documents-and-graphs#readme",
+  "dependencies": {
+    "fake-data-generator": "^0.4.3"
+  },
+  "devDependencies": {
+    "unique-names-generator": "^4.7.1",
+    "uuid": "^9.0.0"
+  }
+}
